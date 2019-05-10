@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim');
+
+body {
+  background: #ccdbdc;
+}
+
+.wrapper {
+  display: flex;
+  font-family: 'Akronim', cursive;
+  justify-content: center;
+}
+
+.wrapper h1 {
+  color: #80ced7;
+  margin: 2.5%;
+  font-size: 15rem;
+}
+
+button {
+  font-family: 'Akronim', cursive;
+  background: #ccdbdc;
+  border-color: #ccdbdc;
+  height: 10vh;
+  margin-top: 8%;
+  margin-left: 12%;
+  font-size: 7rem;
+  color: #007ea7;
+}
